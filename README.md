@@ -1,6 +1,6 @@
 # DailyReminder
 
-DailyReminder这个是我昨天晚上突发奇想做的，正确用过[✨微信公众号推送-给女朋友的浪漫](https://github.com/wangxinleo/wechat-public-account-push)，然后因为模板显得有些呆板，加之有一些新的想法，就做了这个项目。
+DailyReminder这个是我昨天晚上突发奇想做的，就做了这个项目。
 
 该项目使用Python 3.12.4开发。
 
